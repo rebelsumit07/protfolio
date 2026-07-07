@@ -9,6 +9,12 @@ const portfolioData = [
         url: 'https://prototypeindex.netlify.app/',
         image: 'assets/cafe.png'
     },
+     {
+        title: 'A simple Cafe Website prototype',
+        description: 'Online ordering with Cafe showcase',
+        url: 'https://aonecafe.netlify.app/',
+        image: 'assets/aonecafe.png'
+    },
     {
         title: 'Gym Membership App',
         description: 'SaaS platform for gym management',
