@@ -36,8 +36,15 @@ const portfolioData = [
     {
         title: 'Gym Website',
         description: 'A digital face to gym with member login and portal features',
-        url: 'https://sfc07.vercel.app',
+        url: 'https://standardfitnessclub.com',
         image: 'assets/sfc07.png'
+
+    },
+        {
+        title: 'Stay In Hostel',
+        description: 'A personal startup for searching verified hostels in kathmandu',
+        url: 'https://stayinhostel.com',
+        image: 'assets/sih.png'
     }
 ];
 
