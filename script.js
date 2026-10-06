@@ -30,7 +30,7 @@ const portfolioData = [
     {
         title: 'Chat Application',
         description: 'Real-time messaging web app',
-        url: 'https://metufy.netlify.app',
+        url: 'https://metufy.vercel.app',
         image: 'assets/metufy.png'
     },
     {
