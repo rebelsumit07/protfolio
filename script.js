@@ -24,8 +24,14 @@ const portfolioData = [
     {
         title: 'Cafe Online Menu Management',
         description: 'Helps managinr orders menus reservations and more',
-        url: 'https://https://prototypeadmin.netlify.app/',
+        url: 'https://prototypeadmin.netlify.app/',
         image: 'assets/cafemanagemnt.png'
+    },
+     {
+        title: 'Sharefy ',
+        description: 'Share photos videos with full resolution/quality available for website and android application ',
+        url: 'https://sharefy.vercel.app',
+        image: 'assets/sharefy.png'
     },
     {
         title: 'Chat Application',
