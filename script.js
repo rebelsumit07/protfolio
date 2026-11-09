@@ -27,12 +27,7 @@ const portfolioData = [
         url: 'https://prototypeadmin.netlify.app/',
         image: 'assets/cafemanagemnt.png'
     },
-     {
-        title: 'Sharefy ',
-        description: 'Share photos videos with full resolution/quality available for website and android application ',
-        url: 'https://sharefy.vercel.app',
-        image: 'assets/sharefy.png'
-    },
+    
     {
         title: 'Chat Application',
         description: 'Real-time messaging web app',
